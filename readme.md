@@ -2,3 +2,4 @@
 
 - Miranda Lopez
 - Nikki Ortiz
+- Samuel Munoz
